@@ -1,5 +1,10 @@
 # SeafoodTrackathon
   <p><strong><em>Is your seafood traceable?</em></strong></p>
+  
+## Hackathon Location
+
+<p>Rangsit 1 at the Centara Grand Central Plaza Ladprao Bangkok Hotel (Bangkok, Thailand)</p>
+<p>Directions: After entering the lobby, take a left and continue past the ballroom until you reach a staircase. Take the staircase down a level. Rangsit 1 is on the left, just past the reception area.</p>
 <p>Do you know what's in your fishstick? Was that salmon caught in Alaska and processed in China? Do you know the story of how your tuna was caught, canned and then made its way to your dinner table?</p>
 <p>Global Dialogue members (fishers, processors, and retailers) are shifting the market towards traceability systems that enable tracking seafood from vessel to plate. They are developing industry standards in a pre-competitive environment that include solutions for small- and large-scale actors alike. The key element is linking traceability systems so they can seamlessly communicate with each other. Interoperable traceability will mean we know when, where, how and by whom the seafood we consume is caught, processed and shipped.</p>
 <p>We need your expertise in designing technical solutions to capture data, creative ways to share that data, and strategies to convert data seamlessly. Ultimately, with your help we will make progress towards connecting the seafood industry to make sure we can answer these questions accurately in the future.</p>
