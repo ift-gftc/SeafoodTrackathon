@@ -13,6 +13,8 @@ Stolberger Str. 108, 50933 Cologne, Germany</p>
 <p>Global Dialogue members (fishers, processors, and retailers) are shifting the market towards traceability systems that enable tracking seafood from vessel to plate. They are developing industry standards in a pre-competitive environment that include solutions for small- and large-scale actors alike. The key element is linking traceability systems so they can seamlessly communicate with each other. Interoperable traceability will mean we know when, where, how and by whom the seafood we consume is caught, processed and shipped.</p>
 <p>We need your expertise in designing technical solutions to capture data, creative ways to share that data, and strategies to convert data seamlessly. Ultimately, with your help we will make progress towards connecting the seafood industry to make sure we can answer these questions accurately in the future.</p>
 <p><strong>Hacking Seafood Traceabilty</strong></p>
+<p>On 21-22 October 2019, the GDST is hosting a Seafood Traceability Hackathon (Seafood Trackathon). Its mission is to promote seafood traceability and interoperability by sharing the standards and methods developed by the GDST with the seafood industry's technical community. Interoperability requires communication between and among seafood companies, retailers, brokers, processors and IT system providers that support them.</p>
+
 <p>The Global Dialogue on Seafood Traceability (GDST) brings the seafood industry together to design the standards for interoperable seafood traceability. Only when the industry has aligned on how to trace seafood along the supply chain and works in unison with a common standard that allows systems to communicate with each other, will you be able to answer those questions.</p>
 
 <p><strong>Learn</strong></p>
@@ -36,9 +38,7 @@ Stolberger Str. 108, 50933 Cologne, Germany</p>
 <a href="https://www.wipotec-ocs.com/us/" target="_blank" rel="noopener">WIPOTEC-OCS</a> GmbH is kindly supporting the hackathon with a financial contribution.</li>
 </ul>
 
-<p>On 21-22 October 2019, the GDST is hosting a Seafood Traceability Hackathon (Seafood Trackathon). Its mission is to promote seafood traceability and interoperability by sharing the standards and methods developed by the GDST with the seafood industry's technical community. Interoperability requires communication between and among seafood companies, retailers, brokers, processors and IT system providers that support them.</p>
-<p><strong>Networking Opportunity</strong></p>
-<p>This hackathon offers a unique experience to interact with and learn from the seafood industry, traceability and technical experts, and of course coders, developers, data scientists and conceptual thinkers. Through knowledge sharing, interdisciplinary teams will use real data sets taken from industry supply chains to develop solutions which address tools and applications to capture data on fishing vessels, conceptualize feasible data sharing options and develop creative ways to define data formats that support interoperability amongst seafood traceability systems.</p>
+
 <p>Teams will have the opportunity to work on challenges in the following categories:</p>
 <p><strong>#1 Key Data Element Verification:</strong> create data validation protocols and access permissions for key data elements captured on vessel</p>
 <p><strong>#2 Interoperability using EPCIS: </strong>develop tools to read and write traceability data in leveraging GDST adapted EPCIS format </p>
@@ -46,22 +46,16 @@ Stolberger Str. 108, 50933 Cologne, Germany</p>
 <p><strong>#4 Blockchain Integration: </strong>develop traceability data transmission applications utilizing blockchain</p>
 
 <p>To help you with the development of your solution, you can select one of the problem statement as a specific application of your solution. Each problem statement addresses at least one of the categories above.</p>
-  <p><a href="/rules">View full rules</a></p>
 
 
-
-
-
-<p><a href="/rules">View full rules</a></p>
-</article>
-
-<article id="challenge-eligibility">
+  <article id="challenge-requirements">
       <div class="section-title bold">
         <h3 class="subheader section-title-left">
           Eligibility
         </h3>
         <span class="section-title-line"></span>
       </div>
+
 
 <div>
 <p>All participants must register to participate using this <a href="https://traceability-dialogue.org/gdst-news-2/gdst-seafood-traceability-hackathon-2" target="_blank" rel="noopener">form</a> to be eligible for participation and to be able to submit a pitch.</p>
@@ -78,7 +72,7 @@ Stolberger Str. 108, 50933 Cologne, Germany</p>
         <span class="section-title-line"></span>
       </div>
 
-      <div>
+  <div>
   <p>The Challenge Post submission form for the Seafood Trackathon will be open on 16:00 (CEST) October 21, 2019 and closed on 16:00 (CEST) October 22, 2019 and must be submitted by 15:59 (CEST) on October 22, 2019 for consideration in the prizes. Only one submission per team is permitted. To enter the Seafood Trackathon:</p>
 <ul>
 <li>For a submission to be eligible, the submission must be filed electronically to the Seafood Trackathon 2019 Challenge Post site by 15:59 (CEST) October 22, 2019;</li>
