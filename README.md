@@ -3,8 +3,10 @@
   
 ### Hackathon Location
 
-<p>Rangsit 1 at the Centara Grand Central Plaza Ladprao Bangkok Hotel (Bangkok, Thailand)</p>
-<p>Directions: After entering the lobby, take a left and continue past the ballroom until you reach a staircase. Take the staircase down a level. Rangsit 1 is on the left, just past the reception area.</p>
+<p>GS1 Germany Knowledge Center Rooms: Cologne & Tokyo
+Address:
+Stolberger Str. 108, 50933 Cologne, Germany</p>
+
 
 <p><strong>Introduction</strong></p>
 <p>Do you know what's in your fishstick? Was that salmon caught in Alaska and processed in China? Do you know the story of how your tuna was caught, canned and then made its way to your dinner table?</p>
